@@ -1,2 +1,5 @@
 # hello-world
-guide activity
+
+This is a test project for guided activity.
+
+
